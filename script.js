@@ -3,7 +3,7 @@ document.documentElement.classList.add("js-enabled");
 
 // Configuración principal
 const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyPtEXHuNmcZ9jpz7hG0ZT8CR_wgndTk8gZCDLRmSzrU9o1bbMc7TWIF1ezJUFqu8xKxA/exec";
-const GROUP_URL = "https://rebrand.ly/certpastoral";
+const GROUP_URL = "https://rebrand.ly/gpapoyo";
 const START_DATE = new Date("2026-08-03T21:00:00-05:00");
 
 function setValue(id, value) {
